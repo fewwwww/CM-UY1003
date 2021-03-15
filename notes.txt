@@ -182,6 +182,8 @@ THERMO:
     mole * changeH = mole * x kj/mol
 
 CALORIMETRY:
+    PV=nRT
+
     specific heat(s) = raise 1 degree celsius of 1g of substance
         J/g*celsius
     heat capacity(C) = heat required to raise 1 celsius of object
@@ -192,7 +194,7 @@ CALORIMETRY:
     qsys = -sm*changeT = -qsurr
     changeH = qrxn
     m1s1changeT1=mwaterswaterchangeTwater
-    *** qsolution = -qreaction
+    *** qs··olution = -qreaction
     qsys = qwater+qbomb+qrxn
         qwater=smchangeT (sometimes zero)
         qbomb=CbombchangeT

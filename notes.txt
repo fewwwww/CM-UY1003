@@ -213,5 +213,22 @@ CALORIMETRY:
 ATOMS:
     principal quantum number(n) = energy level/orbiting circle
     angular momentum quantum number(l): range from 0 to n-1 for n=n
-        0/1/2/3=spdf
+        0/1/2/3=spdf=1/3/5/7orbitals
+        2s,2p
     magnetic quantum number(ml): -l...0...+l for l=l
+    electron spin quantum number(ms): -1/2 or +1/2
+    n=2, l=0 or 1, s or p orbital
+
+    pauli exclusion principle: energy of atom 
+
+    number of orbital = n^2
+    total electron = 2n^2
+
+    2p -> n=2,l=1 -> ml=-1,0,1 -> 3orbital
+
+    energy depends on n/n&l
+
+    1s^2 2s^1 (i! i)= 2+1 atomic number
+
+PERIODIC TABLE:
+    

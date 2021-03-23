@@ -247,3 +247,14 @@ PERIODIC TABLE:
     nuclear charge: larger nuclear energy (2- > 0) smaller radius
     ionization energy: increase from left to right
                        decrease from top to bottom
+
+BOND:
+    lewis dot: group number dots
+    valence electrons: group number e-
+    lattice energy: E = kQ+Q-/r
+    
+    electronnegativity: increase from left to right
+                        decrease from top to bottom
+    nonpolar covalent: <0.5
+    covalent: 0.5-2.0
+    ionic: >2.0

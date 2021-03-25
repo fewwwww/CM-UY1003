@@ -258,3 +258,8 @@ BOND:
     nonpolar covalent: <0.5
     covalent: 0.5-2.0
     ionic: >2.0
+
+    resonance: cannot be represented by only one lewis structure
+    incomplete octets: fewer than eight surround central atom
+
+    VSEPR: single bond+double bond+lone pair = electron domains

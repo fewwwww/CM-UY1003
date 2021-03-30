@@ -262,4 +262,22 @@ BOND:
     resonance: cannot be represented by only one lewis structure
     incomplete octets: fewer than eight surround central atom
 
+BOND:
     VSEPR: single bond+double bond+lone pair = electron domains
+    lone pair = 0: 
+        AB2: linear; AB3: trigonal planar; AB4: tetrahedral; AB5: trigonal bipyramidal; AB6: octahedral
+    lone pair = 1:
+        AB2E: bent; AB3E: trigonal pyramidal
+    lone pair = 2:
+        AB2E2: bent; AB3E2: linearL AB4E2: square planar
+    lone pair = 3:
+        AB2E3: linear
+    repulsion: (CH4)lone lone > (NH3)lone bonding > (H2O)bonding bonding
+
+    if dipole moment, then polar
+    structural isomer: dipole moment different
+
+    valence bond theory: 
+        orbital overlap, s and p sharing
+    hybridization： mix 2 or more atomic orbitals to form new set of hybrid orbitals
+    

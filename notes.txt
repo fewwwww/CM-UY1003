@@ -280,4 +280,4 @@ BOND:
     valence bond theory: 
         orbital overlap, s and p sharing
     hybridization： mix 2 or more atomic orbitals to form new set of hybrid orbitals
-    
+        BeCl2 = 2 = sp; CH4, H2O = 4 = sp^3; PCl5 = 5 = sp^3d

@@ -277,7 +277,6 @@ BOND:
     if dipole moment, then polar
     structural isomer: dipole moment different
 
-
     valence bond theory: 
         orbital overlap, s and p sharing
     hybridization： mix 2 or more atomic orbitals to form new set of hybrid orbitals

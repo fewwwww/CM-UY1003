@@ -280,4 +280,20 @@ BOND:
     valence bond theory: 
         orbital overlap, s and p sharing
     hybridization： mix 2 or more atomic orbitals to form new set of hybrid orbitals
-        BeCl2 = 2 = sp; CH4, H2O = 4 = sp^3; PCl5 = 5 = sp^3d
+        BeCl2 = 2 = sp; CH4, H2O, NH3 = 4 = sp^3; PCl5 = 5 = sp^3d
+        single bond: 1 sigma bond; >1 bond: 1 sigma bond + >=1 pi bond
+
+MOLECULAR:
+    intermolecular force(van der Waals force): F between molecule
+        measurement: melting/boiling point
+        (polar)dipole-dipole interaction: attractive forces act between polar molecules(CH3CN)
+            hydrogen bond: H to N, O, F
+        (nonpolar)dispersion force: instantaneous dipole induced in atom/molecule
+            polarizability: increase with more electron, more diffuse electron cloud
+        ion-dipole interaction: approach, significant
+    intramolecular force: hold atom in molecule, stronger than intermolecular
+
+    surface tension: strtch the surface of liquid, strong intermolecular force
+    capillary action: cohesion(attraction between like molecules), adhesion(unlike)
+
+

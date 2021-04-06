@@ -293,7 +293,33 @@ MOLECULAR:
         ion-dipole interaction: approach, significant
     intramolecular force: hold atom in molecule, stronger than intermolecular
 
-    surface tension: strtch the surface of liquid, strong intermolecular force
+    surface tension: stretch the surface of liquid, strong intermolecular force
     capillary action: cohesion(attraction between like molecules), adhesion(unlike)
+
+    viscosity: fluid's resistance to flow, higher slower flow
+    hess law: changeHsub = changeHfus + changeHvap
+    dynamic equilibrium: condensation rate = evaporation rate
+    molar heat of vaporization: ln P = - changeHvap/RT(K) + C
+    ice less dense than water
+    vapor pressure: intermolecular force, high at room temperatrue said to be volatile
+
+    vapor pressure: increase with temperature
+      ln P1 - ln P2 = changeHvap/R (1/T2 - 1/T1)
+
+    Solid:
+      crystalline: lattice structure
+      crystal types:
+        ionic: NaCl; covalent: C; molecular: H2O; metallic: Fe
+    
+      amorphous: lack a regular three-dimensional arrangement of atoms
+        glass
+    
+    phase change: 
+      Liquid-Vapor: normal boiling point(1atm)
+        exceed Tc and Pc, respectively, is called a supercritical fluid
+      Solid-Liquid: fusion/melting
+        melting point of a solid = freezing point of a liquid
+        Supercooling is a phenomenon in which a liquid can be temporarily cooled to below its freezing point
+      
 
 

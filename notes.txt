@@ -305,21 +305,38 @@ MOLECULAR:
 
     vapor pressure: increase with temperature
       ln P1 - ln P2 = changeHvap/R (1/T2 - 1/T1)
+      higher boiling point, lower vapor pressure
 
     Solid:
       crystalline: lattice structure
       crystal types:
-        ionic: NaCl; covalent: C; molecular: H2O; metallic: Fe
+        ionic: NaCl; covalent(covalent boind): C, SiO2; molecular(nonpolar): H2O,P4,CO2,CH4,Ar; metallic: Fe
     
       amorphous: lack a regular three-dimensional arrangement of atoms
         glass
     
     phase change: 
+      criticle point: liquid vapor boundry terminate
+      triple pointL three state intersect
+
       Liquid-Vapor: normal boiling point(1atm)
         exceed Tc and Pc, respectively, is called a supercritical fluid
       Solid-Liquid: fusion/melting
         melting point of a solid = freezing point of a liquid
         Supercooling is a phenomenon in which a liquid can be temporarily cooled to below its freezing point
       
+EQUILIBRIUM:
+    physical equilibrium: water and ice
+    chemical equilibrium: N2O4 and NO2
 
+    Kc = NO2eq/N2O4eq； N2O4 = 2NO2
+    K=[C]^c[D]^d/[A]^a[B]^b; aA + bB = cC + dD
+      [COCl2]/[CO][Cl2]
+    K >> 1, product favored; K << 1, reactant favored
 
+    homogenous equilibrium: all same phase. liquid not included
+    Kp = Kc(RT)^(mole of gas product - mole of gas reactant)
+    Kp = rightside gas(if no gas, 1)/(Po2)(PH2)^2
+
+    heterogenous equilibrium: different phases
+      solid/liquid all = 1

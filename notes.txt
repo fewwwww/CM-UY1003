@@ -338,5 +338,44 @@ EQUILIBRIUM:
     Kp = Kc(RT)^(mole of gas product - mole of gas reactant)
     Kp = rightside gas(if no gas, 1)/(Po2)(PH2)^2
 
+    Qc = [NOCl]^2 0 = [M]^2/...
+    Qc > Kc, shift to left
     heterogenous equilibrium: different phases
       solid/liquid all = 1
+    
+    Kc = (productM - reactM)/react1M^2 * react2M
+    Kc = 1/Kc' when reaction reversed
+    A -> B -> C = Kc' * Kc''
+
+    concentration: 0.8, 0 \n -x, +x \n 0.8-x, x
+    direction of reaction: increasing: more mole -> less mole
+
+    Le Chatelier: 
+        exothermic reaction
+        increase temperature: favor endothermic, concentration product decrease, concentration reactant increase
+        increase pressure: favor less moles, concentration product increase
+        increase concentration reactant: other reactant decrease, product increase
+        add catalyst/add noble gas: no effect on equilibrium
+
+ACID BASE:
+    bronsted acid/base: can donate/accept proton
+    arrhenius acid/base: produce H3O+/OH- in water
+    amphoteric: can behave either bronsted acid or base
+
+    Kw = [H3O+](concentration of H+)[OH-] = 1.0e-14 each 1.0e-7
+    [H+] = [OH-] neutral, > acid, < base
+
+    pH = -log[H+] always positive
+    pH 7 netural, < acidic, > basic
+
+    strong electronlyte: 100% dissociation NaCl, strong acids/bases
+    weak electronlyte: not completely dissociated CH3COOH, weak acids
+    pH: 0.018M BaOH2 -> 0.036M 2OH-, then pH
+
+    Ka/b: acid/base ionization constant
+      HA + H2O - H3O + A; HA - H + A
+      Ka = [H][A]/[HA] = x*x/0.5-x
+    percent ionization: [H]equilibrium/[HA]initial * 100%
+    KaKb = Kw
+
+    oxidation number of center increase, acid strength increase

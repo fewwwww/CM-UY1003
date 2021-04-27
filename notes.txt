@@ -379,3 +379,26 @@ ACID BASE:
     KaKb = Kw
 
     oxidation number of center increase, acid strength increase
+
+ORGANIC:
+    aromatic compound: contain one or more benzene rings
+    aliphatic: contain no benzene, just chains
+
+    hydrocarbon: compound with only C and H
+        aliphatic: 
+          alkanes: CnH2n+2, saturated hydrocarbon max num H can bond with num C
+          alkene: CnH2n, unsaturated
+
+    functional groups: alcohols(R-OH) and ethers(R-O-R')
+        carbonxylic: -COOH, Carbonyl: -COOR
+
+ENTROPY:
+    spontaneous: reaction occur naturally (waterfall runs downhill)
+    nonspontaneous: reaction occur forcely
+    all spontaneous/real process = irreversible
+
+    entropy(disorder): S; 
+    ordered to disordered: increase
+    sign entropy: mole of gas more, then positive
+
+    changeG = changeH - changeS

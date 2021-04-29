@@ -415,4 +415,3 @@ SOLUTION：
     molarity = M = moles of solute/liters of solution
     molatity = m = moles of solute/mass of solvent in kg
     percent by mass = mass solute/mass solution
-    

@@ -402,3 +402,17 @@ ENTROPY:
     sign entropy: mole of gas more, then positive
 
     changeG = changeH - changeS
+    standard free energy of reaction: G (cC+dD-aA-bB)
+
+SOLUTION：
+    saturated: max solute in solvent
+    unsaturated: less
+    supersaturated: more
+
+    miscible: completely soluble in each other in any ratio
+    like dissolve like: polarity, ionic more soluble in polar
+
+    molarity = M = moles of solute/liters of solution
+    molatity = m = moles of solute/mass of solvent in kg
+    percent by mass = mass solute/mass solution
+    

@@ -413,5 +413,11 @@ SOLUTION：
     like dissolve like: polarity, ionic more soluble in polar
 
     molarity = M = moles of solute/liters of solution
-    molatity = m = moles of solute/mass of solvent in kg
+    molality = m = moles of solute/mass of solvent in kg
     percent by mass = mass solute/mass solution
+    molar fraction = mole of sth/mole sum
+
+    temperatrue up -> solubility down
+    c=Kp
+
+    Colligative: 0.1M NaCl -> 0.1M Na + 0.1M Cl
